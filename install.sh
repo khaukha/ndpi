@@ -4,7 +4,7 @@ apt-get install unzip libtool autoconf pkg-config subversion libpcap-dev iptable
 echo "Switching to src directory"
 cd /usr/src
 
-echo "Getting source from GitHub...."
+echo "Getting nDPI source from GitHub...."
 wget https://github.com/betolj/ndpi-netfilter/archive/master.zip .
 
 echo "Unzipping Files...."
